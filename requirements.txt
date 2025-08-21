@@ -1,0 +1,7 @@
+langgraph
+pandas
+pytest
+rich
+PyPDF2
+camelot-py
+tabula-py
